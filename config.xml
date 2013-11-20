@@ -7,15 +7,18 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Bars for Android</name>
+    <name>Late Bars London</name>
+	
+	<icon src="icon.png" />
 
     <description>
-        The anpg build for the bars app on phonegap. 
+       Showing where you can get a drink after 11. 
     </description>
 
-    <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Hardeep Shoker 
+    <author href="https://build.phonegap.com" email="latebarsapp@gmail.com">
+        Tim Spear
     </author>
+
 	
 	<plugin name="InAppBrowser" value="CDVInAppBrowser" />
 	
